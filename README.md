@@ -10,3 +10,5 @@ Program where you click a button and it will show you two random ideas next to e
 4) the third card is one you can create from this program. all the card information gets stored in an airtable 
 
 5) you can generate cards from speicifc hashtags. like put in #philosophy #psychology and it will bring up a card of each 
+
+6) include a 4th card that can be used to ask questions, like pull questions from the six thinking hats book 
