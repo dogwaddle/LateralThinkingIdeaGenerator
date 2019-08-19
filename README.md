@@ -28,7 +28,7 @@ Same idea above but it will be a synthesis of what I learned from the Storytelli
 1. Storytelling books on iPad
 2. Storytelling books in Calibre
 3. Hardcopy Storytelling Books I own - Hero of Thousand Faces
-4. Any I cany remember for college
+4. Any I can remember from College - the cat one for example
 5. Psychology Books - The information from introductry textbooks I have
 6. Psychology Books - Find out the other good books on the research around Personality
 7. Pull the major authors of the past and condense their main themes and ideas explored
