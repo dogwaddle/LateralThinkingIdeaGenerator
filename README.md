@@ -33,6 +33,15 @@ Same idea above but it will be a synthesis of what I learned from the Storytelli
 6. Psychology Books - Find out the other good books on the research around Personality
 7. Pull the major authors of the past and condense their main themes and ideas explored
 
+# Comedy Generator
+1. Abstract Comedy concepts. Think of the comedic concepts you have been pulling from Far Side. Like "Mismatch in History" where he is essentially reimaging modern experiences(picking what couch you want out of a catalog) as caveman experiences(picking which fire they want out of a catalog). With the joke being all the fires are the same and the ridiculous nature of it. 
+2. So the generator would pull a card like this out of the pile, then pull a concept out of the pile like Amor Fati. Or ect. 
+3. Or you could have it where the generator pulls out other cards such as
+   a. Time - when in history
+   b. Place - where in history
+   c. Time and Place Together - ex. French Revolution - this might be the better idea 
+4. Write out a brief description of what Comedy is. Rewatch that Rogan/Cornell West episode if needed.
+
 ### Fast Extract
 Problem - there is a list of 100 most influential authors. I want the names without all the other mubo jumbo form the articles. How would I do this? 
    Option 1 - Are the authors listed as elements on the page that would allow me to webscrape them
