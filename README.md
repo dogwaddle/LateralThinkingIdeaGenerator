@@ -46,3 +46,8 @@ Same idea above but it will be a synthesis of what I learned from the Storytelli
 Problem - there is a list of 100 most influential authors. I want the names without all the other mubo jumbo form the articles. How would I do this? 
    Option 1 - Are the authors listed as elements on the page that would allow me to webscrape them
    Option 2 - Use deletion tools alongside incremental reading software to just parse out the names. For this to be time efficent though, it would be nice to be able to import the names and then add them each as an individual cell on Airtable
+   
+   # Game Design
+   In this include the various lenses from "The Art of Game Design: A Book of Lenses" then include also any other ideas from popularly reccomended Game Design books. Make sure also to include immportant ideas from the wider world of Design, such as various design principles. This would include ideas/notes from the various Storytelling books I have on my iPad. 
+   
+   Example: what would an exploration card game look like that constantly procedurally generated new cards? Mash up of "card game like slay the spire or magic the gathering" and drawf fortress. This part is not game design necessarily, but just smashing together the primary aspects/appeal of different games and genres. 
